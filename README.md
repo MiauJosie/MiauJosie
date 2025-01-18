@@ -1,6 +1,6 @@
 # Josie Robin
 
-Hey, my name is Josie and I'm a software engineer and English teacher with passion for technology and education. I have been dedicating myself to studying English for 8 years and have mastered the language. My passion for computers and technology has always driven me to explore new areas, so I started coding, which helped me develop many valuable skills.
+I'm a Software engineer and English teacher with passion for technology and education. My interest in computers and technology has always driven me to explore new areas, so I started coding!
 
 ## Ferramentas
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
