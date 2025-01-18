@@ -1,8 +1,6 @@
 # Josie Robin
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img align="top" style="padding-top:2rem"  src="https://github-readme-stats.vercel.app/api?username=miaujosie&show_icons=true&theme=radical"/>
-   </a>
+Hey, my name is Josie and I'm a software engineer and English teacher with passion for technology and education. I have been dedicating myself to studying English for 8 years and have mastered the language. My passion for computers and technology has always driven me to explore new areas, so I started coding, which helped me develop many valuable skills.
 
 ## Ferramentas
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
