@@ -1,16 +1,16 @@
-## Hi there 👋
+# Josie Robin
 
-<!--
-**MiauJosie/MiauJosie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+      <img align="top" style="padding-top:2rem"  src="https://github-readme-stats.vercel.app/api?username=miaujosie&show_icons=true&theme=radical"/>
+   </a>
 
-Here are some ideas to get you started:
+## Ferramentas
+[![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)](https://git-scm.com/doc) 
+!HTML5
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+!JavaScript 
+!TypeScript
+!React 
+
+## Social
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=0E76A8)](https://www.linkedin.com/in/josierobindeoliveira/)
