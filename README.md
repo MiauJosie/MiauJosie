@@ -3,6 +3,7 @@
 I'm a Software engineer and English teacher with passion for technology and education. My interest in computers and technology has always driven me to explore new areas, so I started coding!
 
 ## Ferramentas
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=cpp&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
