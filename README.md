@@ -1,6 +1,6 @@
 # Josie Robin
 
-I'm a Software engineer and English teacher with passion for technology and education. My interest in computers and technology has always driven me to explore new areas, so I started coding!
+Hi, I'm Josie! I'm a Computer Science student, Software Engineer, and English teacher passionate about technology and education.
 
 ## Ferramentas
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=cpp&logoColor=white)
